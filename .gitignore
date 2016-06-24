@@ -1,0 +1,10 @@
+*.o
+*.swp
+*github.com*
+*bin/
+*pkg/
+*jzlservice/
+*.log*
+.DS_Store
+nohup.out
+*.serialnumber
